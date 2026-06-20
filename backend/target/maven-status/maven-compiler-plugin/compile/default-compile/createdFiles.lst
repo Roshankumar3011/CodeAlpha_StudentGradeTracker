@@ -1,0 +1,11 @@
+com\gradetracker\backend\config\CorsConfig$1.class
+com\gradetracker\backend\exception\ResourceNotFoundException.class
+com\gradetracker\backend\service\StudentService.class
+com\gradetracker\backend\repository\StudentRepository.class
+com\gradetracker\backend\controller\StudentController.class
+com\gradetracker\backend\config\CorsConfig.class
+com\gradetracker\backend\dto\PerformanceReport.class
+com\gradetracker\backend\model\Student.class
+com\gradetracker\backend\exception\ErrorResponse.class
+com\gradetracker\backend\BackendApplication.class
+com\gradetracker\backend\exception\GlobalExceptionHandler.class
